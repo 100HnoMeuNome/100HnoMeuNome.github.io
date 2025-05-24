@@ -14,9 +14,9 @@ dateFormat = "2 January 2006"
 [params.author]
   name = "Tales Casagrande a.k.a Taleco"
   image = "img/author.jpg"
-  headline = "IT Security | Human | Father | Coffee | Speaker "
+  headline = "Application & Cloud Security | Human | Father | Coffee | Podcasters "
   bio = "Cloud Security | Human | Father"
   links = [
-    { x-twitter = "https://twitter.com/100HnoMeuNome", github = "https://github.com/100HnoMeuNome", instagram = "https://www.instagram.com/tempthebunny/", linkedin = "https://www.linkedin.com/in/talescasagrande/", medium = "https://medium.com/@100HnoMeuNome", twitch = "https://www.twitch.tv/tiosdowarzone", youtube = "https://www.youtube.com/@100hnomeunome", spotify = "https://open.spotify.com/playlist/3T4t8IF7joe466LQIKnsYc?si=5ae0f76517564839", tiktok = "https://www.tiktok.com/@tiosdowarzone", email = "tales.775@gmail.com"}
+    { x-twitter = "https://twitter.com/100HnoMeuNome", github = "https://github.com/100HnoMeuNome", instagram = "https://www.instagram.com/tempthebunny/", linkedin = "https://www.linkedin.com/in/talescasagrande/", medium = "https://medium.com/@100HnoMeuNome", twitch = "https://www.twitch.tv/tiosdowarzone", youtube = "https://www.youtube.com/@100hnomeunome", spotify = "https://open.spotify.com/show/1jFNiUCgQ2aaGSpS9lNiDT?si=6eae7ab77f9f4b1f", tiktok = "https://www.tiktok.com/@tiosdowarzone"}
     
 ]
