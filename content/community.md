@@ -23,6 +23,8 @@
 
 ##  Others
 
+:man_teacher: [DevOps User Group Brazil | Observabilidade com IA e Segurança](https://www.youtube.com/live/7vbnJSc_MiA?feature=shared)
+
 :man_teacher: [Hacktiba | Introdução a Segurança de Kubernetes](https://www.youtube.com/watch?v=G6DVNcVceS4)
 
 :man_teacher: [Global SRE Virtual Conference | Software Composition Analysis & Supply Chain Attacks](https://www.globalbigdataconference.com/santa-clara/global-sre-virtual-conference/speakers-131.html)
