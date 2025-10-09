@@ -14,9 +14,9 @@ dateFormat = "2 January 2006"
 [params.author]
   name = "Tales Casagrande a.k.a Taleco"
   image = "img/author.jpg"
-  headline = "Application & Cloud Security | Human | Father | Coffee | Podcaster"
+  headline = "Application & Cloud Security | Human | Father | Coffee | Co-host of the A Culpa é de Sec Podcast "
   bio = "Cloud Security | Human | Father"
   links = [
-    { x-twitter = "https://twitter.com/100HnoMeuNome", github = "https://github.com/100HnoMeuNome", instagram = "https://www.instagram.com/tempthebunny/", linkedin = "https://www.linkedin.com/in/talescasagrande/", medium = "https://medium.com/@100HnoMeuNome", twitch = "https://www.twitch.tv/tiosdowarzone", youtube = "https://www.youtube.com/@100hnomeunome", spotify = "https://open.spotify.com/show/1jFNiUCgQ2aaGSpS9lNiDT?si=6eae7ab77f9f4b1f", tiktok = "https://www.tiktok.com/@tiosdowarzone"}
+    { x-twitter = "https://twitter.com/100HnoMeuNome", github = "https://github.com/100HnoMeuNome", instagram = "https://www.instagram.com/tempthebunny/", linkedin = "https://www.linkedin.com/in/talescasagrande/", medium = "https://medium.com/@100HnoMeuNome", twitch = "https://www.twitch.tv/tiosdowarzone", youtube = "https://www.youtube.com/@100hnomeunome", spotify = "https://open.spotify.com/show/1jFNiUCgQ2aaGSpS9lNiDT?si=6eae7ab77f9f4b1f", tiktok = "https://www.tiktok.com/@tiosdowarzone", spotify = "https://open.spotify.com/show/1jFNiUCgQ2aaGSpS9lNiDT?si=e5e521944d064cc3"}
     
 ]
