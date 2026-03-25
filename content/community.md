@@ -23,6 +23,10 @@
 
 ##  Others
 
+:man_teacher: [HACK IN CWB - DESCONF NIGHT | Plugins na IDE e ataques à cadeia suprimento](https://www.sympla.com.br/evento/hack-in-cwb-desconf-night/3245677?referrer=www.google.com&referrer=www.google.com&share_id=copiarlink)
+
+:man_teacher: [RecrutaTalks | Plugins na IDE e desenvolvedores: o novo foco dos atacantes](https://www.linkedin.com/feed/update/urn:li:activity:7434226013833732096/)
+
 :man_teacher: [DevOps User Group Brazil | Observabilidade com IA e Segurança](https://www.youtube.com/live/7vbnJSc_MiA?feature=shared)
 
 :man_teacher: [Hacktiba | Introdução a Segurança de Kubernetes](https://www.youtube.com/watch?v=G6DVNcVceS4)
